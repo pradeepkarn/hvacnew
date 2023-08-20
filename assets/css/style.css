@@ -432,7 +432,8 @@ img#logo {
 
   #hero,
   #hero .carousel-item {
-    height: calc(100vh - 70px);
+    /* height: calc(100vh - 70px); */
+    height: 30vh;
   }
 
   #hero .carousel-content.container {
